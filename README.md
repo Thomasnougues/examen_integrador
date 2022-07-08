@@ -1,3 +1,4 @@
 # examen_integrador
 Thomas Nougues
-Rocio Silva 
+Rocio Silva
+Karin Pellegrini 
