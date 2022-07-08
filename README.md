@@ -1,4 +1,5 @@
 # examen_integrador
 Thomas Nougues
 Rocio Silva
-Karin Pellegrini 
+Karin Pellegrini
+Luciano Baccello 
